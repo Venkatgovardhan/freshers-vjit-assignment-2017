@@ -12,7 +12,7 @@ public class Menu {
 		for(i=0;i<n;i++)
 		{
 			System.out.println("enter the items");
-			item=key.nextLine();
+			item=key.next();
 			hsi.add(item);
 			
 		}

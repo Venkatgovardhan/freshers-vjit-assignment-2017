@@ -1,5 +1,9 @@
 Appname:RubiRestaurant
 classes:
-1)menumain:- It helps the manager to enter the day's menu and the prices for each item, also enables to show the menu to the
-customer when needed.
-2)customer:- It helps the manager to welcome the customer and allocate the table to the customer, also it enables the manager to deallocate the table when the customer leaves.
+1)Rubirestaurant:Host welcomes the customer and ask him/her the number of tables needed.Then the callmanager class is called.
+2)callmanager:It is the manager domain it asks the manager to update the tables remaining and checks whether the new customer can be allocated or not,if yes then the control is transfered to manager class.
+3)Manager:It registers the customer and allocates the customer a table.As soon as the customer is allocated a table the boy comes and serves water.then the control is transfered to the customer to order food.
+4)Order:In this class the customer checks the menu and selects his desired food item.finally it calculates the total cost for the items and displays it.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+MORE MODULES COMING SHORTLY!!!

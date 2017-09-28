@@ -23,7 +23,7 @@ public class Manager {
 		{
 			ht.put(tableno,customername);
 			Order o=new Order();
-			o.order();
+			o.order(customername);
 		}
 		
 	}
@@ -34,14 +34,6 @@ public class Manager {
 		ht.remove(t);
 		System.out.println("table"+t+"is free to be allocated");
 	}
-	public void customers()
-	{
-		Set s=ht.entrySet();
-		Iterator i=s.iterator();
-		while(i.hasNext())
-		{
-			System.out.println(i.next());
-		}
-	}
+	
 		
 }

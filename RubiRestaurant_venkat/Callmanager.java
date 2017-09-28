@@ -17,7 +17,7 @@ public class Callmanager {
 			do
 			{
 				System.out.println("enter 1:to register customer and allocate table\n"
-					+ "2:--------3:to free the table\n4:to quit");
+					+ "2:to free the table\n3:to quit");
 				ch=sc.nextInt();
 				switch(ch)
 				{
@@ -32,9 +32,9 @@ public class Callmanager {
 					}
 					i++;	
 					break;
-					case 3:m.customerexit();
+					case 2:m.customerexit();
 					break;
-					case 4:ch=0;
+					case 3:ch=0;
 					break;
 				}
 			}while(ch!=0);
@@ -44,7 +44,6 @@ public class Callmanager {
 		{
 			System.out.println("no vacancy sir sorry!!! you have to wait");
 		}
-			m.customers();
 		
 			System.out.println("we are done for today Good night Manager!!!");
 	}

@@ -12,6 +12,7 @@ public class Rubirestaurant {
 		Callmanager m=new Callmanager();
 		m.manager(rtables);
 		
+		
 	}
 
 }

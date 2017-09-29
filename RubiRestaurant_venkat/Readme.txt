@@ -1,5 +1,9 @@
 Project Name: RubiRestaurant
+----------------------------
+
+
 Description:
+
 RubiRestaurant is a management system which provides restaurant customer to order food.It helps manager to handle the customer as well as payment.It also lets the manager to handle the inventory.
 1)When the customer visits the restaurant the host welcomes the customers.
 2)The host asks him the number of tables he requires.
@@ -20,9 +24,12 @@ RubiRestaurant is a management system which provides restaurant customer to orde
 17)Then the manager can deallocate the table.
 18)The system asks the manager if there are more customer,if there are more then the process repeats.
 
+
 Steps to run this:
+
 Step1:Download the jar file and place it in any drive or on desktop.
 Step2:Open the folder where the jar file is present then press Shift+rightclickmouse,and then select Open command window here
 Stem3:Then type the command below:-
 java -jar RubiVenkat.jar
 Step4:Then follow the instructions.
+------------------------------------------------------------------------------------------------------------------------------------------

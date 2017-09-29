@@ -25,6 +25,7 @@ RubiRestaurant is a management system which provides restaurant customer to orde
 18)The system asks the manager if there are more customer,if there are more then the process repeats.
 
 
+
 Steps to run this:
 
 Step1:Download the jar file(RubiVenkat.jar) and place it in any drive or on desktop.

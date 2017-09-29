@@ -27,9 +27,9 @@ RubiRestaurant is a management system which provides restaurant customer to orde
 
 Steps to run this:
 
-Step1:Download the jar file and place it in any drive or on desktop.
+Step1:Download the jar file(RubiVenkat.jar) and place it in any drive or on desktop.
 Step2:Open the folder where the jar file is present then press Shift+rightclickmouse,and then select Open command window here
 Stem3:Then type the command below:-
 java -jar RubiVenkat.jar
 Step4:Then follow the instructions.
-------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
